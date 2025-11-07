@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.11" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Conda11" project-jdk-type="Python SDK" />
+  <component name="RRemoteSettings">
+    <option name="closeRemoteFiles" value="false" />
+  </component>
+  <component name="RSettings">
+    <option name="interpreterPath" value="$USER_HOME$/anaconda3/envs/Ren/bin/R" />
+    <option name="loadWorkspace" value="true" />
+    <option name="saveWorkspace" value="true" />
+  </component>
+</project>
